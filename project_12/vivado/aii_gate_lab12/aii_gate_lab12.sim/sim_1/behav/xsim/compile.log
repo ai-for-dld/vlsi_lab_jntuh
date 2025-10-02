@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/youtube_content/dsch_and_microwind/project_12/rtl/aoi_gate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aoi_gate
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/youtube_content/dsch_and_microwind/project_12/tb/tb_aoi_4_lab12_v01.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_aoi_4_lab12_v01
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/youtube_content/dsch_and_microwind/project_12/vivado/aii_gate_lab12/aii_gate_lab12.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
